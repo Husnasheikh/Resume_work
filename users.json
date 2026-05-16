@@ -1,1 +1,10 @@
-{"husna": {"password": "pass123"}}
+{
+  "username": {
+    "cash": 97587.16998291016,
+    "portfolio": {
+      "AAPL": 8,
+      "GOOGL": 2,
+      "TSLA": 5
+    }
+  }
+}
